@@ -1,5 +1,9 @@
 Worldwide catalog of business registries
 
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/corporative_registry_worldwide_catalog">
+ 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/corporative_registry_worldwide_catalog">
+
 https://cipher387.github.io/corporative_registry_worldwide_catalog/
 
 <hr>
